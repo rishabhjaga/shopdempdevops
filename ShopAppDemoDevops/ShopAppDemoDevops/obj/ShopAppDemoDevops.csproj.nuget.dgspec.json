@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\shopdempdevops\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj": {
+    "C:\\Users\\Admin\\Desktop\\shopdempdevops\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\shopdempdevops\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj",
         "projectName": "ShopAppDemoDevops",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\shopdempdevops\\ShopAppDemoDevops\\ShopAppDemoDevops\\ShopAppDemoDevops.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShopAppDemoDevops\\ShopAppDemoDevops\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\shopdempdevops\\ShopAppDemoDevops\\ShopAppDemoDevops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
